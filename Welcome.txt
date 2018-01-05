@@ -1,2 +1,2 @@
 Console.print('Welcome.');
-Console.print('Hi.');
+Console.print('How do.');
